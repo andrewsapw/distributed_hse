@@ -11,8 +11,9 @@
 				"${file}",
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"-fopenmp",
 				"-lpthread",
-				"-fopenmp"
+				"-O3"
 			],
 			"options": {
 				"cwd": "C:\\Programs\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin"

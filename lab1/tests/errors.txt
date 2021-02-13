@@ -1,0 +1,11 @@
+Count of cities: 14
+MIN DIST: 3041.08
+PATH: 0 9 6 8 2 13 7 10 4 11 5 1 12 3
+Time taken by function: 103129 milliseconds
+test_14: FAIL
+
+Count of cities: 15
+MIN DIST: 2658.28
+PATH: 0 2 9 8 4 12 5 1 14 13 10 6 7 11 3
+Time taken by function: 1005649 milliseconds
+test_15: FAIL
